@@ -1,7 +1,7 @@
 import spotipy
 import json
 from spotipy.oauth2 import SpotifyOAuth
-from app_secrets import SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, SPOTIPY_REDIRECT_URI, SPOTIFY_USER_ID, PLAYLIST_NAME
+from app_secrets import SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, SPOTIPY_REDIRECT_URI, SPOTIFY_USER_ID
 
 
 class SpotifyHelper:
