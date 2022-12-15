@@ -1,0 +1,4 @@
+/.cache
+/app_secrets.py
+/venv
+/__pycache__
